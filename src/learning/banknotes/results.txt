@@ -1,0 +1,23 @@
+Results for model GaussianNB
+Correct: 462
+Incorrect: 86
+Accuracy: 84.31%
+[Finished in 3.1s]
+
+Results for model Perceptron
+Correct: 543
+Incorrect: 5
+Accuracy: 99.09%
+[Finished in 1.3s]
+
+Results for model SVC
+Correct: 546
+Incorrect: 2
+Accuracy: 99.64%
+[Finished in 1.2s]
+
+Results for model KNeighborsClassifier
+Correct: 548
+Incorrect: 0
+Accuracy: 100.00%
+[Finished in 1.3s]

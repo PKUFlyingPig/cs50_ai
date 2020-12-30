@@ -1,0 +1,7 @@
+name,mother,father,trait
+Arthur,,,0
+Charlie,Molly,Arthur,0
+Fred,Molly,Arthur,1
+Ginny,Molly,Arthur,
+Molly,,,0
+Ron,Molly,Arthur,
